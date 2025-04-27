@@ -1,7 +1,5 @@
 # AutoMine by soundfont
-<sup>asdsad</sup>
-
-A simple AutoHotkey script designed to automate clicking and holding the left mouse button at specific screen coordinates, with built-in periodic repositioning and an anti-AFK mechanism.
+<sup>A simple auto mine / anti-AFK script for untitled drill game</sup>
 
 ## Features
 
