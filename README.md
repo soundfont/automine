@@ -1,4 +1,5 @@
 # AutoMine by soundfont
+#- asdsad
 
 A simple AutoHotkey script designed to automate clicking and holding the left mouse button at specific screen coordinates, with built-in periodic repositioning and an anti-AFK mechanism.
 
