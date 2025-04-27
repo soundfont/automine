@@ -1,6 +1,6 @@
-# AutoHotkey Coordinate Clicker with Anti-AFK
+# AutoMine by soundfont
 
-A simple AutoHotkey (v1.1) script designed to automate clicking and holding the left mouse button at specific screen coordinates, with built-in periodic repositioning and an anti-AFK mechanism.
+A simple AutoHotkey script designed to automate clicking and holding the left mouse button at specific screen coordinates, with built-in periodic repositioning and an anti-AFK mechanism.
 
 ## Features
 
